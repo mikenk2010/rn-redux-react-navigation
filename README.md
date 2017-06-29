@@ -1,0 +1,3 @@
+# Integration `redux` with `react-navigation`
+
+### Will be updated later...
